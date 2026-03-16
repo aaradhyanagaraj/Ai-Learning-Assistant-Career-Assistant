@@ -1,1 +1,6 @@
 streamlit
+pytesseract
+Pillow
+pypdf
+python-docx
+ollama llama 3:8b
